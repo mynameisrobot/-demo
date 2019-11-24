@@ -23,20 +23,25 @@
   全部数据
   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre3.PNG)
   
+  
   更行数据
   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre4.PNG)
+   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre5.PNG)
   
   删除数据
-  ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre5.PNG)
+  ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre6.PNG)
+   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre10.PNG)
   
   
   添加数据
-  ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre6.PNG)
   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre7.PNG)
+  ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre8.PNG)
   
   按照过期时间排序
-  ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre8.PNG)
+ 
   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre9.PNG)
+  
+  功能都只是demo，还有很多地方需要完善
 
 
 
