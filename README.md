@@ -22,6 +22,7 @@
 
   全部数据
   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre3.PNG)
+    ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre11.PNG)
   
   
   更行数据
