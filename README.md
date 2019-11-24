@@ -45,7 +45,8 @@
  
   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre9.PNG)
   
-
+  下面是gif
+  ![image](https://github.com/mynameisrobot/-demo/blob/master/img/ok.gif)
 
 分页功能由前端实现，后端也有实现，把视图里面注释去掉就行了
 
