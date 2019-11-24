@@ -45,7 +45,12 @@
  
   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre9.PNG)
   
-  功能都只是demo，还有很多地方需要完善
+
+
+分页功能由前端实现，后端也有实现，把视图里面注释去掉就行了
+
+
+功能都只是demo，还有很多地方需要完善
 
 
 
