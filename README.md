@@ -22,16 +22,15 @@
 
   全部数据
   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre3.PNG)
-    ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre11.PNG)
+    
   
   
-  更行数据
+  更新数据
   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre4.PNG)
    ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre5.PNG)
   
   删除数据
   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre6.PNG)
-   ![image](https://github.com/mynameisrobot/-demo/blob/master/img/pre10.PNG)
   
   
   添加数据
