@@ -13,6 +13,19 @@ class  getpriorty(APIView):
 
 
 
+class modelview(ModelViewSet):
+    queryset = do_project.objects.all()
+    serializer_class = d_project
+    pagination_class = PageNumberPagination
+    def retrieveall(self,request,*args):
+
+        ser=self.get_queryset()
+        print(ser)
+        if ser==[]:
+            return Response([])
+        # pa=page.paginate_queryset(ser,request,view=self)
+        ser=self.get_serializer(instance=ser,many=True)
+        return Response(ser.data)
 
 
 
